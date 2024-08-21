@@ -49,6 +49,7 @@ github "NordicSemiconductor/IOS-DFU-Library" ~> x.y // Replace x.y with your req
 - Build with carthage
 
 ```sh
+//+Add.gitQuantum OS
 carthage update --use-xcframeworks --platform iOS // other supported platforms: macOS, tvOS, watchOS
 ```
 
