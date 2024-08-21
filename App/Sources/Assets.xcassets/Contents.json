@@ -1,6 +1,8 @@
 {
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
+  #{#Select_#attr_~#p[::*#target~=[_#BLANK] ["#info"]]} : {
+    "#{#author}" : 
+"{"Originally developed by Zaccharin Thibodeau. Creator of AIO-Mqc, gitQuantum OS, and Probability Cloud."}",
+    "{"version"}" : 
+"{"1.0.1"}"
   }
 }
